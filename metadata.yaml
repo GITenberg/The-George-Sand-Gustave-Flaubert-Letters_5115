@@ -1,0 +1,44 @@
+_repo: The-George-Sand-Gustave-Flaubert-Letters_5115
+contributor:
+  translator:
+    agent_name: McKenzie, Aimée L. (Aimée Leffingwell)
+    aliases:
+    - McKenzie, Aimee L. (Aimee Leffingwell)
+    - McKenzie, Aimée G. Leffingwell
+    - McKenzie, Aimée Leffingwell
+    gutenberg_agent_id: '1702'
+    url: http://www.gutenberg.org/2009/agents/1702
+creator:
+  authors:
+  - agent_name: Sand, George
+    aliases:
+    - Dudevant, Amandine-Aurore-Lucile
+    - Dupin, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia: http://en.wikipedia.org/wiki/George_Sand
+  - agent_name: Flaubert, Gustave
+    birthdate: 1821
+    deathdate: 1880
+    gutenberg_agent_id: '574'
+    url: http://www.gutenberg.org/2009/agents/574
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Novelists, French -- 19th century -- Correspondence'
+- !lcsh 'Sand, George, 1804-1876 -- Correspondence'
+- !lcsh 'Flaubert, Gustave, 1821-1880 -- Correspondence'
+title: The George Sand-Gustave Flaubert Letters
+url: http://www.gutenberg.org/ebooks/5115
