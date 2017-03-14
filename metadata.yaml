@@ -1,5 +1,5 @@
 _repo: The-George-Sand-Gustave-Flaubert-Letters_5115
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: McKenzie, Aimée L. (Aimée Leffingwell)
@@ -9,6 +9,9 @@ contributor:
     - McKenzie, Aimée Leffingwell
     gutenberg_agent_id: '1702'
     url: http://www.gutenberg.org/2009/agents/1702
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Sand, George
@@ -28,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/574
     wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5115#The-George-Sand-Gustave-Flaubert-Letters
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
