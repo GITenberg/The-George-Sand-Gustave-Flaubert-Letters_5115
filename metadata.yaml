@@ -1,5 +1,5 @@
 _repo: The-George-Sand-Gustave-Flaubert-Letters_5115
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: McKenzie, Aimée L. (Aimée Leffingwell)
@@ -46,5 +46,6 @@ subjects:
 - !lcsh 'Novelists, French -- 19th century -- Correspondence'
 - !lcsh 'Sand, George, 1804-1876 -- Correspondence'
 - !lcsh 'Flaubert, Gustave, 1821-1880 -- Correspondence'
+- GITenberg
 title: The George Sand-Gustave Flaubert Letters
 url: http://www.gutenberg.org/ebooks/5115
